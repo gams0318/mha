@@ -1,0 +1,49 @@
+*{
+   background-color: antiquewhite;
+    text-align: center;
+}
+img
+{display:block;
+    margin:auto;
+   width:200px;
+   
+    border-radius: 100%;
+    
+}
+h2{
+    color:darkgreen;
+  //font-display: fallback;
+}
+p{
+    font-family: cursive;
+}
+
+.fa{
+    padding:20px;
+    font-size: 50px;
+    width:50px;
+    margin: 2px 2px;
+    text-decoration: none;
+    border-radius: 10%;
+}
+a:hover{
+    color:red;
+}
+.fa:hover{
+  opacity: .7;  
+}
+.fa-facebook
+{
+    background: #3B5998;
+    color:white;
+}
+.fa-linkedin
+{
+    background: #007bb5;
+        color:white;
+}
+.fa-instagram
+{
+    background: #125888;
+    color:white;
+}
