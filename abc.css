@@ -1,0 +1,54 @@
+
+#leadbanner img
+{
+    width:100%;
+    
+}
+body{
+    font-family: 'Montserrat', serif;
+
+}
+#main-navigation
+{
+    background: #181818;
+    padding:10px;
+}
+
+#main-navigation ul{
+    text-align: right;
+    list-style-type: none;
+    margin-right: 10px;
+}
+#main-navigation li
+{
+    display: inline-block;
+    margin-left: 15px;
+  
+    
+   
+  
+}
+#main-navigation a{
+    text-decoration: none;
+    color:white;
+    text-transform: uppercase;
+     font-size: 20px;
+    padding: 6px;
+}
+#test a:hover{
+    background: #90EE90;
+}
+#test{
+   text-align: center;
+    font-size: 30px;
+}
+
+#main-navigation a:hover{
+    background: -webkit-linear-gradient(top, black, blue);
+}
+#content article{
+    font-size: 25px;
+    
+    
+    
+}
